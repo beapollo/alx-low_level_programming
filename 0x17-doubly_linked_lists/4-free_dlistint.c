@@ -3,6 +3,7 @@
 /**
  * free_dListint - free a dlistint_t list.
  * @head: pointer to list head.
+ * Return: void
  */
 void free_dlistint(dlistint_t *head)
 {
