@@ -4,7 +4,6 @@
  * @head: pointer to the first node
  * @n: an element to be added
  * Return: the address of the new element, otherwise NULL
- *
  */
 dlistint_t *add_dnodeint_end(dlistint_t **head, const int n)
 {
