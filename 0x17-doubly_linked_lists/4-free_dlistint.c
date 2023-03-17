@@ -1,5 +1,4 @@
 #include "lists.h"
-
 /**
  * free_dListint - free a dlistint_t list.
  * @head: pointer to list head.
